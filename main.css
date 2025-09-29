@@ -1,12 +1,15 @@
 p{
+    /* Change the color of only paragrap text */
     color: rgb(255, 92, 32);
 }
 body{
+    /* Change the color of the background */
     background-color: rgb(9, 9, 10);
     /* the color selector changes the text color */
     color: rgb(214, 195, 167);
     /* Center the body contets */
     text-align: center;
+    /* Makes the list dots stay with the text */
     list-style-position: inside;
 
 
@@ -14,5 +17,6 @@ body{
 
 }
 footer{
+    /* I was trying to get the footer to stay at the bottom */
     padding-top: 150px;
 }
